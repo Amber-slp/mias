@@ -12,7 +12,7 @@ This repository contains the configuration, datasets, and evaluation scripts for
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/your-username/mias.git](https://github.com/your-username/mias.git)
+    git clone [https://github.com/your-username/mias.git](https://github.com/Amber-slp/mias.git)
     cd mias
     ```
 
@@ -40,5 +40,6 @@ The training data is located in the `dataset/` folder.
 * **Augmentation**: The original data has been expanded using the **MGA (Multi-Grain Augmentation)** strategy to enhance model robustness and generalization.
 
 ## wm Evaluation
+
 
 The `test/` folder contains specific Question & Answer pairs designed to test the model's domain capability.
