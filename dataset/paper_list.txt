@@ -1,0 +1,40 @@
+(1) H. B. Wu and X. W. Lou Metal-organic frameworks and their derived materials for electrochemical energy storage and conversion: Promises and challenges. Science Advances. 3, eaap9252.
+ (2) H. T. B. Pham, J. Y. Choi, M. Stodolka and J. Park Maximizing the Potential of Electrically Conductive MOFs. Acc. Chem. Res. 2024, 580–589.
+ (3) J. Yan, T. Liu, X. Liu, Y. Yan and Y. Huang Metal-organic framework-based materials for flexible supercapacitor application. Coord. Chem. Rev. 2022, 452, 214300.
+ (4) X. Fang, J. Y. Choi, M. Stodolka, H. T. B. Pham and J. Park Advancing Electrically Conductive Metal-Organic Frameworks for Photocatalytic Energy Conversion. Acc. Chem. Res. 2024, 57, 2316-2325.
+ (5) C. P. Wang, Y. X. Lin, L. Cui, J. Zhu and X. H. Bu 2D Metal-Organic Frameworks as Competent Electrocatalysts for Water Splitting. Small. 2023, 19, e2207342.
+ (6) B. Check, K. Bairley, J. Santarelli, H. T. B. Pham and J. Park Applications of Electrically Conductive Metal–Organic Frameworks: From Design to Fabrication. ACS Materials Letters. 2025, 7, 465-488.
+ (7) L. Xiao, Z. Wang and J. Guan 2D MOFs and their derivatives for electrocatalytic applications: Recent advances and new challenges. Coord. Chem. Rev. 2022, 472, 214777.
+ (8) J. Liu, G. Xing and L. Chen 2D Conjugated Metal-Organic Frameworks: Defined Synthesis and Tailor-Made Functions. Acc. Chem. Res. 2024, 57, 1032-1045.
+ (9) K. Jayaramulu, S. Mukherjee, D. M. Morales, D. P. Dubal, A. K. Nanjundan, A. Schneemann, J. Masa, S. Kment, W. Schuhmann, M. Otyepka, R. Zboril and R. A. Fischer Graphene-Based Metal-Organic Framework Hybrids for Applications in Catalysis, Environmental, and Energy Technologies. Chem Rev. 2022, 122, 17241-17338.
+ (10) S. Sundriyal, H. Kaur, S. K. Bhardwaj, S. Mishra, K.-H. Kim and A. Deep Metal-organic frameworks and their composites as efficient electrodes for supercapacitor applications. Coord. Chem. Rev. 2018, 369, 15-38.
+ (11) L. Niu, T. Wu, M. Chen, L. Yang, J. Yang, Z. Wang, A. A. Kornyshev, H. Jiang, S. Bi and G. Feng Conductive Metal-Organic Frameworks for Supercapacitors. Adv. Mater. 2022, 34, e2200999.
+ (12) T. Liu, P. Li, N. Yao, T. Kong, G. Cheng, S. Chen and W. Luo Self-Sacrificial Template-Directed Vapor-Phase Growth of MOF Assemblies and Surface Vulcanization for Efficient Water Splitting. Adv. Mater. 2019, 31, e1806672.
+ (13) S. Wang, M. Wahiduzzaman, L. Davis, A. Tissot, W. Shepard, J. Marrot, C. Martineau-Corcos, D. Hamdane, G. Maurin, S. Devautour-Vinot and C. Serre A robust zirconium amino acid metal-organic framework for proton conduction. Nat Commun. 2018, 9, 4937.
+ (14) A. Devendran, M. Shahmirzaee and A. Nagai Recent Progress on Metal Organic Framework and Covalent Organic Framework Based Solid‐State Electrolyte Membranes for Lithium Battery Applications. ChemElectroChem. 2024, 11, e202300847.
+ (15) M. S. Yao, X. J. Lv, Z. H. Fu, W. H. Li, W. H. Deng, G. D. Wu and G. Xu Layer-by-Layer Assembled Conductive Metal-Organic Framework Nanofilms for Room-Temperature Chemiresistive Sensing. Angew. Chem. Int. Ed. 2017, 56, 16510-16514.
+ (16) T. Qiu, S. Gao, Z. Liang, D. G. Wang, H. Tabassum, R. Zhong and R. Zou Pristine Hollow Metal-Organic Frameworks: Design, Synthesis and Application. Angew. Chem. Int. Ed. 2021, 60, 17314-17336.
+ (17) X. Xiao, L. Zou, H. Pang and Q. Xu Synthesis of micro/nanoscaled metal-organic frameworks and their direct electrochemical applications. Chem Soc Rev. 2020, 49, 301-331.
+ (18) K.-K. Liu, Z. Meng, Y. Fang and H.-L. Jiang Conductive MOFs for electrocatalysis and electrochemical sensor. eScience. 2023, 3, 100133.
+ (19) C. Li, L. Zhang, J. Chen, X. Li, J. Sun, J. Zhu, X. Wang and Y. Fu Recent development and applications of electrical conductive MOFs. Nanoscale. 2021, 13, 485-509.
+ (20) Y. Xue, S. Zheng, H. Xue and H. Pang Metal–organic framework composites and their electrochemical applications. J. Mater. Chem. A. 2019, 7, 7301-7327.
+ (21) M. Wang, R. Dong and X. Feng Two-dimensional conjugated metal–organic frameworks (2D c-MOFs): chemistry and function for MOFtronics. Chem. Soc. Rev. 2021, 50, 2764-2793.
+ (22) H. Zhong, M. Wang, G. Chen, R. Dong and X. Feng Two-Dimensional Conjugated Metal-Organic Frameworks for Electrocatalysis: Opportunities and Challenges. ACS Nano. 2022, 16, 1759-1780.
+ (23) X. Liao, H. Fu, T. Yan and J. Lei Electroactive metal-organic framework composites: Design and biosensing application. Biosens Bioelectron. 2019, 146, 111743.
+ (24) X. Zhuang, S. Zhang, Y. Tang, F. Yu, Z. Li and H. Pang Recent progress of MOF/MXene-based composites: Synthesis, functionality and application. Coord. Chem. Rev. 2023, 490, 215208.
+ (25) H. Zhang, X. Liu, Y. Wu, C. Guan, A. K. Cheetham and J. Wang MOF-derived nanohybrids for electrocatalysis and energy storage: current status and perspectives. Chem Commun (Camb). 2018, 54, 5268-5288.
+ (26) Y. Xue, G. Zhao, R. Yang, F. Chu, J. Chen, L. Wang and X. Huang 2D metal-organic framework-based materials for electrocatalytic, photocatalytic and thermocatalytic applications. Nanoscale. 2021, 13, 3911-3936.
+ (27) C. Yang, Y. Xiang and Y. Yu Electronic Conductive Metal–Organic Frameworks for Aqueous Rechargeable Zinc‐Ion Battery Cathodes: Design, Progress, and Prospects. Carbon Energy. 2025, 7, e70012.
+ (28) J. Liu, X. Song, T. Zhang, S. Liu, H. Wen and L. Chen 2D Conductive Metal-Organic Frameworks: An Emerging Platform for Electrochemical Energy Storage. Angew. Chem. Int. Ed. 2021, 60, 5612-5624.
+ (29) J. Duan, Y. Li, Y. Pan, N. Behera and W. Jin Metal-organic framework nanosheets: An emerging family of multifunctional 2D materials. Coord. Chem. Rev. 2019, 395, 25-45.
+ (30) P. Priyadarshini and K. Parida Two-dimensional metal-organic frameworks and their derived materials: Properties, synthesis and application in supercapacitors field. Journal of Energy Storage. 2024, 87, 111379.
+ (31) T. Guo, H. Mashhadimoslem, L. Choopani, M. M. Salehi, A. Maleki, A. Elkamel, A. Yu, Q. Zhang, J. Song, Y. Jin and O. J. Rojas Recent Progress in MOF-Aerogel Fabrication and Applications. Small. 2024, 20, e2402942.
+ (32) K. O. Otun, A. Mukhtar, S. A. Nafiu, I. T. Bello and J. Abdulsalam Incorporation of redox-activity into metal-organic frameworks for enhanced supercapacitors: A review. Journal of Energy Storage. 2024, 84, 110673.
+ (33) G. Zhang, L. Jin, R. Zhang, Y. Bai, R. Zhu and H. Pang Recent advances in the development of electronically and ionically conductive metal-organic frameworks. Coord. Chem. Rev. 2021, 439, 213915.
+ (34) B. Li, H. M. Wen, Y. Cui, W. Zhou, G. Qian and B. Chen Emerging Multifunctional Metal-Organic Framework Materials. Adv. Mater. 2016, 28, 8819-8860.
+ (35) H. M. Ren, H. W. Wang, Y. F. Jiang, Z. X. Tao, C. Y. Mu and G. Li Proton Conductive Lanthanide-Based Metal-Organic Frameworks: Synthesis Strategies, Structural Features, and Recent Progress. Top Curr Chem (Cham). 2022, 380, 9.
+ (36) C. Wang, C. You, K. Rong, C. Shen, F. Yang and S. Li An S-Scheme MIL-101(Fe)-on-BiOCl Heterostructure with Oxygen Vacancies for Boosting Photocatalytic Removal of Cr(VI). Acta Physico-Chimica Sinica. 2024, 40, 2307045.
+ (37) L. Sun, M. G. Campbell and M. Dinca Electrically Conductive Porous Metal-Organic Frameworks. Angew. Chem. Int. Ed. 2016, 55, 3566-79.
+ (38) M. A. Abdelkareem, Q. Abbas, E. T. Sayed, N. Shehata, J. B. M. Parambath, A. H. Alami and A. G. Olabi Recent advances on metal-organic frameworks (MOFs) and their applications in energy conversion devices: Comprehensive review. Energy. 2024, 299, 131127.
+ (39) Q. J. Wu, J. Liang, Y. B. Huang and R. Cao Thermo-, Electro-, and Photocatalytic CO(2) Conversion to Value-Added Products over Porous Metal/Covalent Organic Frameworks. Acc. Chem. Res. 2022, 55, 2978-2997.
+ (40) M. Ko, L. Mendecki and K. A. Mirica Conductive two-dimensional metal-organic frameworks as multifunctional materials. Chem Commun (Camb). 2018, 54, 7873-7891.
